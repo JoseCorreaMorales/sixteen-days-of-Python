@@ -1,17 +1,17 @@
-nombre = "Jose"
+name = "Jose"
 
-edad = 10 
-edad2 = 20
+age = 10 
+age2 = 20
 
-total = edad + edad2
+total = age + age2
 
-print(nombre)
+print(name)
 print(total)
 
-unNombre = print("Hola "+input("Cual es tu nombre? ") + " mi nombre es: " + nombre)
+aName = print("Hi "+input("Whats your name? ") + " my name is " + name)
 
-nombre = "Julia"
-apellido = "Roberts"
-nombrecompleto = nombre + " " + apellido
+name = "Julia"
+lastname = "Roberts"
+fullname = name + " " + lastname
 
-print(nombrecompleto)
+print(fullname)
