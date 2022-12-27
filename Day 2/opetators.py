@@ -6,7 +6,7 @@ print(f"{x} - {y} = {x-y}")
 print(f"{x} * {y} = {x*y}")
 print(f"{x} / {y} = {x/y}")
 
-""" Other """
+""" Other """   
 print(f"integer part of {7} divided by {2} = {7//2}")
 print(f"decimal part of {7} divided by {2} = {7%2}")
 #7 % 2 means that i can create three pairs of tow(s) before exceed  7 so adding the pairs will be equals to 
