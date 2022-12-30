@@ -15,3 +15,5 @@ print(f"{y} raised to {x} = {y**x}")
 print(f"square root of {x} = {x**0.5}")
 
 
+
+print(7%2)

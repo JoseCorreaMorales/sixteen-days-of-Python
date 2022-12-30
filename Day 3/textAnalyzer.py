@@ -4,12 +4,12 @@ fLetter = input('whats the frist letter?')
 sLetter = input('whats the second letter?')
 tLetter = input('whats the third letter?') """
 
-text = "holaaa como estasccbba"
+text = "hello how are you?"
 baseText = text.lower()
 
-fLetter = 'a'
-sLetter = 'b'
-tLetter = 'c'
+fLetter = 'a'.lower()
+sLetter = 'b'.lower()
+tLetter = 'c'.lower()
 
 """ how many times appear each lettter? """
 flc = 0

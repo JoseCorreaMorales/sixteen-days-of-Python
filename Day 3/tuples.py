@@ -36,7 +36,8 @@ print("x, y and z on a tuple", tuple)
 """ tuple methods """
 tuple = 1, 2, "tres", 4, 5, 6.0, 1, 1, 1, 2, 5, 23, 54
 
-print(tuple.count(1))
 
+print(tuple.count(1))
+print(tuple)
 
 
